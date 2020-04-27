@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>试做页面</title>
+</head>
+<body>
+	<h1>图片</h1>
+	<img src="" alt="测试图片">
+	<h2>段落</h2>
+	<p>Mozilla 是一个全球社区，这里聚集着来自五湖四海的技术人员、思考者和建造者，我们致力于……</p>
+	<h2>列表</h2>
+	<h3>无序列表</h3>
+	<p>Mozilla 是一个全球社区，这里聚集着来自五湖四海的</p>
+	<ul>
+		<li>技术人员</li>
+		<li>思考者</li>
+		<li>建造者</li>
+	</ul>
+	<p>我们致力于……</p>
+	<h3>有序列表</h3>
+	<p>Mozilla 是一个全球社区，这里聚集着来自五湖四海的</p>
+	<ol>
+		<li>技术人员</li>
+		<li>思考者</li>
+		<li>建造者</li>
+	</ol>
+	<p>我们致力于……</p>
+</body>
+</html>
